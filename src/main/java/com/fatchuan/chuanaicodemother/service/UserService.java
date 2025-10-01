@@ -1,6 +1,6 @@
 package com.fatchuan.chuanaicodemother.service;
 
-import com.fatchuan.chuanaicodemother.model.dto.UserQueryRequest;
+import com.fatchuan.chuanaicodemother.model.dto.user.UserQueryRequest;
 import com.fatchuan.chuanaicodemother.model.vo.LoginUserVO;
 import com.fatchuan.chuanaicodemother.model.vo.UserVO;
 import com.mybatisflex.core.query.QueryWrapper;

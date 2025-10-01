@@ -5,7 +5,7 @@ import cn.hutool.core.collection.CollUtil;
 import cn.hutool.core.util.StrUtil;
 import com.fatchuan.chuanaicodemother.exception.BusinessException;
 import com.fatchuan.chuanaicodemother.exception.ErrorCode;
-import com.fatchuan.chuanaicodemother.model.dto.UserQueryRequest;
+import com.fatchuan.chuanaicodemother.model.dto.user.UserQueryRequest;
 import com.fatchuan.chuanaicodemother.model.enums.UserRoleEnum;
 import com.fatchuan.chuanaicodemother.model.vo.LoginUserVO;
 import com.fatchuan.chuanaicodemother.model.vo.UserVO;
